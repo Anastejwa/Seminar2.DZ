@@ -1,0 +1,15 @@
+/Users/MacBook/Desktop/Seminar2/Задача15/bin/Debug/net6.0/Задача15
+/Users/MacBook/Desktop/Seminar2/Задача15/bin/Debug/net6.0/Задача15.deps.json
+/Users/MacBook/Desktop/Seminar2/Задача15/bin/Debug/net6.0/Задача15.runtimeconfig.json
+/Users/MacBook/Desktop/Seminar2/Задача15/bin/Debug/net6.0/Задача15.dll
+/Users/MacBook/Desktop/Seminar2/Задача15/bin/Debug/net6.0/Задача15.pdb
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.csproj.AssemblyReference.cache
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.AssemblyInfoInputs.cache
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.AssemblyInfo.cs
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.csproj.CoreCompileInputs.cache
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.dll
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/refint/Задача15.dll
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.pdb
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/Задача15.genruntimeconfig.cache
+/Users/MacBook/Desktop/Seminar2/Задача15/obj/Debug/net6.0/ref/Задача15.dll
